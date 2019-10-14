@@ -51,6 +51,7 @@ Every Program that cpu want to execute need to present inside the RAM
 
 Now a part from program will be something called data 
 For example to edit a photograph with photoshop you need data which are photos
+Data = any raw data for example you take images video file audio file text file
 
 Now one question you may ask is why are we using these many levels of memory?
 
