@@ -76,3 +76,7 @@ Step 6) Result placed into Monitors Buffer
 
             
 21)Degree of Multiprogramming  = size of RAM / size of single Process(Assumption ...size of all processes are the same )
+
+22)Types od Operating Systems : 1) Batch os -> 1 CPU
+                                2) Multiprogramming os -> 1 CPU
+                                3) Multiprocessing os -> More than 1 CPU 
