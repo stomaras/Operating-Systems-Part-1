@@ -75,3 +75,4 @@ Step 6) Result placed into Monitors Buffer
                               7)Suspend Wait State
 
             
+21)Degree of Multiprogramming  = size of RAM / size of single Process(Assumption ...size of all processes are the same )
