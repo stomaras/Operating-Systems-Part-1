@@ -65,4 +65,13 @@ Step 6) Result placed into Monitors Buffer
                     
 19)Turn-Around-Time = Waiting time + Burst time + I/O time
 
+20)States of a process
+                              1)New Sate 
+                              2)Ready State
+                              3)Running Sate 
+                              4)Waiting State
+                              5)Terminated State
+                              6)Suspend State Ready 
+                              7)Suspend Wait State
+
             
