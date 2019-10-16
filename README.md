@@ -111,3 +111,26 @@ Step 6) Result placed into Monitors Buffer
 32)General Purpose Registers : Set of registers values of the program 
 
 33)Protection : For every process our os code needs to make sure that a process is not using the space of another process...ok?
+
+34)Context of the process P1 ->1)process id
+                               2)program counter
+                               3)process state
+                               4)General Purpose Registers
+                               5)Priority
+                               6)List of open files 
+                               7)List of open devices 
+                               8)Protection 
+                               
+35) Parts of OS code -> 1)Long-Term-Scheduler
+                     -> 2)Short-Term-Scheduler
+                     -> 3)Medium-Term-Scheduler
+                     
+36)From Hard Disk which processes will be moved into the RAM is deciding by something called as Long-Term-Scheduler
+
+37)Every process has a priority number
+
+38)Medium-Term-Scheduler -> A function of OS which decide which process should swap-out of RAM so the higher priority process swap-into the RAM 
+
+39)swap-in -> from HARD DISK to RAM 
+   swap-out -> from RAM to HARD DISK
+40)Context - Switching : Let's assume CPU execute p1 and whenever p4 comes into RAM who's priority higher than p1,p1 has to be preemtive and context of p1 saved and p4 has to be scheduled by CPU this call as context-switching 
