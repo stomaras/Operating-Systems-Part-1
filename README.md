@@ -80,3 +80,34 @@ Step 6) Result placed into Monitors Buffer
 22)Types od Operating Systems : 1) Batch os -> 1 CPU
                                 2) Multiprogramming os -> 1 CPU
                                 3) Multiprocessing os -> More than 1 CPU 
+                                
+ 23)This Program for which the process is created is also called as "Passive Entity"
+ 
+ 24)The process which is actually created for the program is also called as "Active Entity"
+ 
+ 25)Dynamically Allocating Memory : Allocating Memory at the Runtime with malloc function
+ 
+ 26)Stack Space and Heap Space depends on the program
+ 
+ 27)For every process we have a process control block PCB(stack,heap,static/globalvariables,prgram)
+ 
+ 28)local variables allocated in the stack 
+ 
+ 29)Scheduling Algorithms ->1)FCFS
+                            2)SJF
+                            
+                            
+ 30)Process Attributes: 1)Process id 
+                        2)Program Counter
+                        3)Process State
+                        4)General Purpose Registers
+                        5)Priority
+                        6)List of open files
+                        7)List of open devices
+                        8)Protection 
+                        
+31)Program Counter : A register which will be maintained closer to the CPU 
+
+32)General Purpose Registers : Set of registers values of the program 
+
+33)Protection : For every process our os code needs to make sure that a process is not using the space of another process...ok?
