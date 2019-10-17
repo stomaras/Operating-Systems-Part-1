@@ -134,3 +134,30 @@ Step 6) Result placed into Monitors Buffer
 39)swap-in -> from HARD DISK to RAM 
    swap-out -> from RAM to HARD DISK
 40)Context - Switching : Let's assume CPU execute p1 and whenever p4 comes into RAM who's priority higher than p1,p1 has to be preemtive and context of p1 saved and p4 has to be scheduled by CPU this call as context-switching 
+
+41)Various times related to a process 
+                                        1)Arrival Time 
+                                        2)Burst Time(also calleds as Execution time)
+                                        3)Completion time
+                                        4)Turn-Around-Time
+                                        5)Waiting-Time
+                                        6)Response Time
+                                        7)I/O time
+                                        
+ 42) Arrival Time = point-in-time which process is moved from Hard Disk to RAM 
+ 
+ 43)Turn-Around-Time = The total time which the process is inside the RAM 
+    Turn-Around-Time = Completion Time - Arrival Time
+    Turn-Around-Time = Burst Time + I/O Time + Waiting Time 
+    
+ 44)Waiting Time =  time that a process spend inside the RAM without doing anything 
+ 
+ 45) Point-In-Time               Duration-in-time
+                                        
+          1) Arrival Time               1)Burst Time
+                                        
+          2) Execution Time             2)Turn Around Time 
+                    
+                                        3)Waiting Time
+                                        
+                                        4)Response Time 
