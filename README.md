@@ -161,3 +161,6 @@ Step 6) Result placed into Monitors Buffer
                                         3)Waiting Time
                                         
                                         4)Response Time 
+ 46) Schedule Length = Completion Time of last process - Arrival Time of 1st Process
+ 
+ 47) Throughput = Num Of Pricesses / Schedule Length
