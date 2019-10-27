@@ -163,4 +163,6 @@ Step 6) Result placed into Monitors Buffer
                                         4)Response Time 
  46) Schedule Length = Completion Time of last process - Arrival Time of 1st Process
  
- 47) Throughput = Num Of Pricesses / Schedule Length
+ 47) Throughput = Num Of Processes / Schedule Length
+ 
+ 48) Response Time = Waiting time of that process until it gets the CPU for the first time 
