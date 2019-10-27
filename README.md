@@ -166,3 +166,5 @@ Step 6) Result placed into Monitors Buffer
  47) Throughput = Num Of Processes / Schedule Length
  
  48) Response Time = Waiting time of that process until it gets the CPU for the first time 
+ 
+ 49) In any Non-Preemtive Scheduling Algorithm(e.g FCFS,SJF) , Response Time = Waiting Time 
