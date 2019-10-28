@@ -189,3 +189,9 @@ Step 6) Result placed into Monitors Buffer
      Shortest Remaining Time First                 YES Disadvantage 
  
      First Come First Served                       No Advantage 
+     
+ 55) Convoy Effect : A smaller process(process with very small execution time) or process with very small burst time 
+                     waiting for one big process to get off(release) the CPU. An Algorithm with convoy effect problem 
+                     may lead to higher waiting time and higher Turn-Around-time in comparison to an algorithm without 
+                     convoy effect problem FCFS, SJF suffers from convoy effect problem .On the other hand SRTF does not 
+                     suffer from convoy effect problem.
