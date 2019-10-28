@@ -195,3 +195,7 @@ Step 6) Result placed into Monitors Buffer
                      may lead to higher waiting time and higher Turn-Around-time in comparison to an algorithm without 
                      convoy effect problem FCFS, SJF suffers from convoy effect problem .On the other hand SRTF does not 
                      suffer from convoy effect problem.
+                     
+ 56) SJF, SRTF difficult to implement because depends on burst time and burst time depends on a lot of factors which means power system 
+               system capacity and all this.
+      FCFS     easy to implement , we can simply place a clock inside in our computer 
