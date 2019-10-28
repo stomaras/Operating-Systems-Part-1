@@ -168,3 +168,7 @@ Step 6) Result placed into Monitors Buffer
  48) Response Time = Waiting time of that process until it gets the CPU for the first time 
  
  49) In any Non-Preemtive Scheduling Algorithm(e.g FCFS,SJF) , Response Time = Waiting Time 
+ 
+ 50) Context Switching Overhead = 0 time unit ... then Useful Time Of CPU = 100%
+ 
+ 51) While ( Context Switching Overhead . Increase) then (CPU Efficiency and Computer Speed Decrease)  
