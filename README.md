@@ -179,6 +179,8 @@ Step 6) Result placed into Monitors Buffer
  53) Any kind of Algorithm which follow the concept of FIFO does not suffer from Starvation Problem 
  
      Algorithms                                    Problem of Starvation 
+     
+     
  54) Shortest-Job-First                            YES Disadvantage
       
      Shortest Remaining Time First                 YES Disadvantage 
