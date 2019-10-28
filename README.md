@@ -172,3 +172,15 @@ Step 6) Result placed into Monitors Buffer
  50) Context Switching Overhead = 0 time unit ... then Useful Time Of CPU = 100%
  
  51) While ( Context Switching Overhead . Increase) then (CPU Efficiency and Computer Speed Decrease)  
+ 
+ 52) Starvation Problem : An Algorithm suffers from starvation problem if there is a chance for a process in the 
+                          the ready state to wait indefinitely to get the CPU 
+                          
+ 53) Any kind of Algorithm which follow the concept of FIFO does not suffer from Starvation Problem 
+ 
+     Algorithms                                    Problem of Starvation 
+ 54) Shortest-Job-First                            YES Disadvantage
+      
+     Shortest Remaining Time First                 YES Disadvantage 
+ 
+     First Come First Served                       No Advantage 
